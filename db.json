@@ -4,14 +4,7 @@
       "id": 1,
       "title": "Anjum Makkah Hotel",
       "location": "0m dari Maqam Ibrahim",
-      "facility": [
-        "Free Wifi",
-        "Ruangan keluarga",
-        "Disabilitas",
-        "Tempat makan",
-        "Shuttle Bandara",
-        "Pelayanan kamar"
-      ],
+      "facility": ["Free Wifi", "Ruangan keluarga", "Disabilitas", "Tempat makan", "Shuttle Bandara", "Pelayanan kamar"],
       "other_facility": [],
       "star_hotel": 4
     }
@@ -34,11 +27,10 @@
         "Fotocopy Kartu keluarga",
         "Fotocopy Akta Nikah (Bagi Pasangan Suami istri yang berangkat bersama dan usia istri di bawah 45th)"
       ],
-      "star_hotel" : 4,
-      "sisa_seat" : 15,
-      "feature" : "Quad",
-      "feature_detail" : "Sekamar Ber-4"
-      
+      "star_hotel": 4,
+      "sisa_seat": 15,
+      "feature": "Quad",
+      "feature_detail": "Sekamar Ber-4"
     },
     {
       "id": 2,
@@ -57,10 +49,10 @@
         "Fotocopy Kartu keluarga",
         "Fotocopy Akta Nikah (Bagi Pasangan Suami istri yang berangkat bersama dan usia istri di bawah 45th)"
       ],
-      "star_hotel" : 4,
-      "sisa_seat" : 33,
-      "feature" : "Quad",
-      "feature_detail" : "Sekamar Ber-4"
+      "star_hotel": 4,
+      "sisa_seat": 33,
+      "feature": "Quad",
+      "feature_detail": "Sekamar Ber-4"
     },
     {
       "id": 3,
@@ -79,10 +71,10 @@
         "Fotocopy Kartu keluarga",
         "Fotocopy Akta Nikah (Bagi Pasangan Suami istri yang berangkat bersama dan usia istri di bawah 45th)"
       ],
-      "star_hotel" : 4,
-      "sisa_seat" : 35,
-      "feature" : "Quad",
-      "feature_detail" : "Sekamar Ber-4"
+      "star_hotel": 4,
+      "sisa_seat": 35,
+      "feature": "Quad",
+      "feature_detail": "Sekamar Ber-4"
     },
     {
       "id": 4,
@@ -101,10 +93,10 @@
         "Fotocopy Kartu keluarga",
         "Fotocopy Akta Nikah (Bagi Pasangan Suami istri yang berangkat bersama dan usia istri di bawah 45th)"
       ],
-      "star_hotel" : 4,
-      "sisa_seat" : 18,
-      "feature" : "Quad",
-      "feature_detail" : "Sekamar Ber-4"
+      "star_hotel": 4,
+      "sisa_seat": 18,
+      "feature": "Quad",
+      "feature_detail": "Sekamar Ber-4"
     },
     {
       "id": 5,
@@ -123,10 +115,10 @@
         "Fotocopy Kartu keluarga",
         "Fotocopy Akta Nikah (Bagi Pasangan Suami istri yang berangkat bersama dan usia istri di bawah 45th)"
       ],
-      "star_hotel" : 4,
-      "sisa_seat" : 30,
-      "feature" : "Quad",
-      "feature_detail" : "Sekamar Ber-4"
+      "star_hotel": 4,
+      "sisa_seat": 30,
+      "feature": "Quad",
+      "feature_detail": "Sekamar Ber-4"
     },
     {
       "id": 6,
@@ -145,57 +137,60 @@
         "Fotocopy Kartu keluarga",
         "Fotocopy Akta Nikah (Bagi Pasangan Suami istri yang berangkat bersama dan usia istri di bawah 45th)"
       ],
-      "star_hotel" : 4,
-      "sisa_seat" : 20,
-      "feature" : "Quad",
-      "feature_detail" : "Sekamar Ber-4"
+      "star_hotel": 4,
+      "sisa_seat": 20,
+      "feature": "Quad",
+      "feature_detail": "Sekamar Ber-4"
     }
   ],
-  "patner" : [
+  "patner": [
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,w_60,dpr_2.0,q_20,fl_progressive/icon%20Percaya%20Umroh%20512.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,w_60,dpr_2.0,q_20,fl_progressive/icon%20Percaya%20Umroh%20512.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/smefihtefs5byuwfgsmc.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/smefihtefs5byuwfgsmc.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/6b595b03dd5023d18020bbbd355d1cc5.jpeg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/6b595b03dd5023d18020bbbd355d1cc5.jpeg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/LF6Gv6jy_400x400.jpg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/LF6Gv6jy_400x400.jpg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/b6f2383737f15d1184d2a7e3c97b7e86.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/b6f2383737f15d1184d2a7e3c97b7e86.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/gfhdpwxjpgcmldekjc0h.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/gfhdpwxjpgcmldekjc0h.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/txdo1grzttct31t9ubuc.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/txdo1grzttct31t9ubuc.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/ec9a651a55a1794b5ff5145e639692b9.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/ec9a651a55a1794b5ff5145e639692b9.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/yjaiomtxlkf4zhmqa18k.jpg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/biro_cover/yjaiomtxlkf4zhmqa18k.jpg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/94b2f8d51e0edd7d3ac978cdd7adea66.jpeg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/94b2f8d51e0edd7d3ac978cdd7adea66.jpeg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/a49ad87b103aa29caa9ffdf29fd0b2e8.jpeg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/a49ad87b103aa29caa9ffdf29fd0b2e8.jpeg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/hamsa%20tour.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/hamsa%20tour.png"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/f9e6bbb9aa1a263c9dddca176d203e47.jpeg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/f9e6bbb9aa1a263c9dddca176d203e47.jpeg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/5e2c0cd0aaf3a3821ee750229cc518a0.jpeg"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/5e2c0cd0aaf3a3821ee750229cc518a0.jpeg"
     },
     {
-      "img_url" : "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/b8d8f8609b021a17ea7a27e83bff0bfb.png"
+      "img_url": "https://cloud.umroh.com/images/upload/c_cover,f_auto,g_center,dpr_2.0,q_80,fl_progressive/cover/b8d8f8609b021a17ea7a27e83bff0bfb.png"
     }
-  ]
+  ],
+  "posts": [{ "id": 1, "title": "json-server", "author": "typicode" }],
+  "comments": [{ "id": 1, "body": "some comment", "postId": 1 }],
+  "profile": { "name": "typicode" }
 }
